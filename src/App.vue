@@ -1,24 +1,24 @@
 <template>
     <div>
-        <tab-switch 
+        <vue-tab-switch 
             :tabs="datas2">
-        </tab-switch>
+        </vue-tab-switch>
         <div class="mt20"></div>
-        <tab-switch
+        <vue-tab-switch
             :tabs="datas" 
             :textActiveColor="activeColor"
             :textColor="color"
             :lineColor="activeColor"
             @changeTab="changeTab">
-        </tab-switch>
+        </vue-tab-switch>
     </div>
 </template>
 
 <script>
-import tabSwitch from "./packages/tab.vue";
+import vueTabSwitch from "./packages/tab.vue";
 export default {
     components: {
-        tabSwitch
+        vueTabSwitch
     },
     data() {
         return {

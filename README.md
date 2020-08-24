@@ -33,17 +33,17 @@ new Vue({
 **In template**
 
 ```html
-  <tab-switch 
+  <vue-tab-switch 
     :tabs="datas2">
-    </tab-switch>
+  </vue-tab-switch>
   
-  <tab-switch
+  <vue-tab-switch
     :tabs="datas" 
     :textActiveColor="activeColor"
     :textColor="color"
     :lineColor="activeColor"
     @changeTab="changeTab">
-  </tab-switch>
+  </vue-tab-switch>
 ```
 
 ```js
