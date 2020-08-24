@@ -7,12 +7,12 @@
   },
   "license": "MIT",
   "author": "herui",
-  "homepage": "https://github.com/Binaryify/vue-qr#readme",
+  "homepage": "https://github.com/githr1314/vue-simple-tab-switch.git#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Binaryify/vue-qr.git"
+    "url": "https://github.com/githr1314/vue-simple-tab-switch.git"
   },
-  "main": "dist/vue-qr.js",
+  "main": "dist/vue-simple-tab-switch.js",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
