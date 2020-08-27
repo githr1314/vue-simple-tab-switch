@@ -9,7 +9,7 @@ Not support IE 不支持IE浏览器
 
 ### Example
 
-<img src="https://github.com/githr1314/vue-simple-tab-switch/blob/master/src/assets/tabSwitchExample.png" width="300">
+<img src="https://s1.ax1x.com/2020/08/27/dfvzFI.png" width="300">
 
 ### Demo
 Run `npm run dev` or `yarn dev`  
